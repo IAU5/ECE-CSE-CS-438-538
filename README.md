@@ -1,7 +1,7 @@
 # ECE-230-Digital-System
 
 <p align="center">
-  <img src="f27bd12c-098c-478b-9d39-0b30e2f75332.png" alt="Digital System Banner" width="100%">
+  <img src="Digital System Banner.png" alt="Digital System Banner" width="100%">
 </p>
 
 ---
