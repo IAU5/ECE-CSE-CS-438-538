@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Digital System Banner.png" alt="Digital System Banner" width="100%">
+</p>
+
 ## 📚 ECE 230 - DIGITAL SYSTEM
 
 Welcome to **ECE 230: Digital System** Course. This 3-credit course will explore the core principles and practices governing the creation of digital systems. From understanding the fundamentals of Boolean algebra to state-machine diagrams and programmable logic devices, we will dive into the intricacies of designing and optimizing digital circuits essential for today's technologically advanced world.
