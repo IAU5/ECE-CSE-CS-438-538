@@ -13,10 +13,15 @@ Welcome to **ECE 230: Digital System** Course. This 3-credit course will explore
 For navigation, you can click the buttons below to access course materials:
 
 <p align="center">
-  <a href="./Module"><img src="https://img.shields.io/badge/MODULE-blue?style=for-the-badge&logo=bookstack" alt="Module Button"/></a>
+  <a href="./Module">
+    <img src="module.png" alt="Module Button" width="200">
+  </a>
   <br><br>
-  <a href="./Assignment"><img src="https://img.shields.io/badge/ASSIGNMENT-darkblue?style=for-the-badge&logo=googledrive" alt="Assignment Button"/></a>
+  <a href="./Assignment">
+    <img src="assignment.png" alt="Assignment Button" width="200">
+  </a>
 </p>
+
 
 ---
 
