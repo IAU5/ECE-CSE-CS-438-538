@@ -75,4 +75,4 @@ For navigation, you can click the buttons below to access course materials:
 |          | **Final Project**                                                       | **Fundamentals of TinyML**: ML Paradigm, building blocks of DL, Building Computer Vision Models.                                                                                                                                                                                                                                                                                                                  | Inference your model on EdgeImpulse and use the TinyML microcontroller.                                                   |
 
 ## Tiny ML
-1. [Getting Started] (TinyML/tinyML_0_Getting Started.pdf)
+1. [Getting Started] (./TinyML/tinyML_0_Getting Started.pdf)
