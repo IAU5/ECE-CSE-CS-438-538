@@ -62,7 +62,7 @@ For navigation, you can click the buttons below to access course materials:
 
 ---
 
-## 🔗 [Course Syllabus](https://example.com) 
+## 🔗 [Course Syllabus](syllabus.pdf) 
 
 ### 📅 Course Schedule: ECE/CSE 438/538 - Edge AI Hardware Systems
 
