@@ -74,5 +74,8 @@ For navigation, you can click the buttons below to access course materials:
 | **15–16**| **TinyML Laboratory Session**                                            | **ML Systems**: Preprocessing and postprocessing in ML systems, Distributed training, Federated learning, Ethical, environmental, and societal concerns related to ML systems.                                                                                                                                                                                                                                   |                                                                                                                                                                  |
 |          | **Final Project**                                                       | **Fundamentals of TinyML**: ML Paradigm, building blocks of DL, Building Computer Vision Models.                                                                                                                                                                                                                                                                                                                  | Inference your model on EdgeImpulse and use the TinyML microcontroller.                                                   |
 
-## Tiny ML
+## ✋ Tiny ML
 1. [Getting Started](./TinyML/tinyML_0_GettingStarted.pdf)
+2. [Keyword Spotting](./TinyML/tinyML_1_KeywordSpotting.pdf)
+3. [Gesture Detection](./TinyML/tinyML_2_GestureDetection.pdf)
+4. [Object Detection](./TinyML/tinyML_3_Object_Detection.pdf)
