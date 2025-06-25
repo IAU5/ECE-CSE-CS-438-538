@@ -2,7 +2,7 @@
   <img src="Digital System Banner.png" alt="Digital System Banner" width="100%">
 </p>
 
-## 📚 ECE 230 - DIGITAL SYSTEM
+##  ECE 230 - DIGITAL SYSTEM
 
 Welcome to **ECE/CSE 438/538:  EdgeAI Hardware Systems** Course. This 3-credit advanced-level course takes a hardware-centric view of AI/machine learning systems from constrained embedded devices to high-level distributed systems. It covers topics like ML design for low-power devices, optimization techniques for real-time processing, and deployment strategies for AI/ML models on embedded devices, bridging the gap between AI theory and practical hardware implementation.
 
@@ -21,7 +21,7 @@ For navigation, you can click the buttons below to access course materials:
 
 ---
 
-## 🎯 Course Objectives
+##  Course Objectives
 - Demonstrate understanding of how machine learning algorithms are implemented on different hardware systems.
 - Apply key optimization techniques, including pruning, quantization, and binarization, to improve the efficiency of machine learning algorithms on various hardware platforms.
 - Analyze and evaluate the performance and efficiency of hardware platforms with and without optimizations, understanding the trade-offs between efficiency and accuracy.
@@ -29,7 +29,7 @@ For navigation, you can click the buttons below to access course materials:
   
 ---
 
-## 📊 Evaluation System
+##  Evaluation System
 
 | Component     | Weight (%) |
 |---------------|------------|
@@ -40,7 +40,7 @@ For navigation, you can click the buttons below to access course materials:
 
 ---
 
-## 📝 Grading Criteria
+##  Grading Criteria
 
 | Grade | Range   |
 |-------|---------|
@@ -68,9 +68,9 @@ For navigation, you can click the buttons below to access course materials:
 
 ---
 
-## 🔗 [Course Syllabus](syllabus.pdf) 
+##  [Course Syllabus](syllabus.pdf) 
 
-### 📅 Course Schedule: ECE/CSE 438/538 - Edge AI Hardware Systems
+###  Course Schedule: ECE/CSE 438/538 - Edge AI Hardware Systems
 
 | **Week** | **Topic**                                                                 | **Description**                                                                                                                                                                                                                                                                                                                                                                                                   | **Outcome**                                                                                                                                                      |
 |----------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -80,7 +80,7 @@ For navigation, you can click the buttons below to access course materials:
 | **15–16**| **TinyML Laboratory Session**                                            | **ML Systems**: Preprocessing and postprocessing in ML systems, Distributed training, Federated learning, Ethical, environmental, and societal concerns related to ML systems.                                                                                                                                                                                                                                   |                                                                                                                                                                  |
 |          | **Final Project**                                                       | **Fundamentals of TinyML**: ML Paradigm, building blocks of DL, Building Computer Vision Models.                                                                                                                                                                                                                                                                                                                  | Inference your model on EdgeImpulse and use the TinyML microcontroller.                                                   |
 
-## ✋ Tiny ML
+##  Tiny ML
 1. [Getting Started](./TinyML/tinyML_0_GettingStarted.pdf)
 2. [Keyword Spotting](./TinyML/tinyML_1_KeywordSpotting.pdf)
 3. [Gesture Detection](./TinyML/tinyML_2_GestureDetection.pdf)
