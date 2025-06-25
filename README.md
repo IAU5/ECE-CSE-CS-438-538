@@ -57,8 +57,8 @@ For navigation, you can click the buttons below to access course materials:
 
 | Name                    | Time                          | Room/Link                        |
 |-------------------------|-------------------------------|----------------------------------|
-| Omiya Hassan            | Wednesday: 3:30 PM - 4:30 PM  | MEC 202G                         |
-| Ikteder Akhand Udoy     | Mon/Wed: 1:30 PM - 3:00 PM    | [Zoom link](https://boisestate.zoom.us/j/92926554873) & ID: 929 2655 4873 |
+| Omiya Hassan            | Wednesday: 3:30 PM - 4:30 PM **(Need Update)**  | MEC 202G                         |
+| Ikteder Akhand Udoy     | Mon/Wed: 1:30 PM - 3:00 PM **(Need Update)**    | [Zoom link](https://boisestate.zoom.us/j/92926554873) & ID: 929 2655 4873 |
 
 ---
 
