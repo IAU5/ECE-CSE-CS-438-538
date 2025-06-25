@@ -4,7 +4,7 @@
 
 ## 📚 ECE 230 - DIGITAL SYSTEM
 
-Welcome to **ECE 230: Digital System** Course. This 3-credit course will explore the core principles and practices governing the creation of digital systems. From understanding the fundamentals of Boolean algebra to state-machine diagrams and programmable logic devices, we will dive into the intricacies of designing and optimizing digital circuits essential for today's technologically advanced world.
+Welcome to **ECE/CSE 438/538:  EdgeAI Hardware Systems** Course. This 3-credit advanced-level course takes a hardware-centric view of AI/machine learning systems from constrained embedded devices to high-level distributed systems. It covers topics like ML design for low-power devices, optimization techniques for real-time processing, and deployment strategies for AI/ML models on embedded devices, bridging the gap between AI theory and practical hardware implementation.
 
 For navigation, you can click the buttons below to access course materials:
 
@@ -22,24 +22,28 @@ For navigation, you can click the buttons below to access course materials:
 ---
 
 ## 🎯 Course Objectives
-
 - **Mastering Fundamental Concepts** in digital system design: Boolean algebra, state diagrams, logic circuits.
 - **Proficiency in HDLs** (e.g., Verilog) for high-level digital design.
 - **Hands-on Experience with PLDs** via lab work using FPGA boards.
 - **System-Level Design & Optimization**: Focused on power, speed, and area efficiency.
 - **Project-Based Learning** to foster real-world problem-solving and teamwork.
-
+- **Understand the AI/ML/DL Hardware Landscape**: Develop a hardware-centric understanding of AI, ML, and deep learning models, differentiating between embedded and cloud-based systems.
+- **Analyze and Implement AI Models**: Gain hands-on experience coding deep learning models (e.g., VGG19, MobileNetV2) using Python and PyTorch for computer vision tasks, with performance metrics such as accuracy, latency, and memory utilization.
+- **Optimize Models for Edge Devices**: Apply model-level optimization techniques such as matrix decomposition, pruning, quantization-aware training (QAT), knowledge distillation, and shifter-algorithms to enhance deployment on low-power hardware.
+- **Evaluate Hardware Performance**: Learn to assess hardware efficiency using roofline analysis, performance metrics, and hardware-aware dataflow paradigms for ML accelerators.
+- **Utilize Advanced ML Compilation Techniques**: Explore ML compilers, kernel transformations (e.g., Winograd, FFT), and domain-specific compilation strategies for efficient inference on specialized hardware.
+- **Build and Deploy TinyML Applications**: Design end-to-end ML pipelines, from data preprocessing to deployment, and deploy models using EdgeImpulse and TinyML microcontrollers for real-time edge inference.
+- **Address Societal and Ethical Implications**: Reflect on ethical, environmental, and societal challenges in AI deployment, including federated learning and distributed training paradigms.
 ---
 
 ## 📊 Evaluation System
 
 | Component     | Weight (%) |
 |---------------|------------|
-| Homework      | 15%        |
-| Assignments   | 15%        |
-| Quizzes       | 15%        |
-| Mid-Term Exam | 25%        |
-| Final Exam    | 30%        |
+| Modules       | 35%        |
+| Assignments   | 20%        |
+| Lab Report    | 15%        |
+| Final Project | 30%        |
 
 ---
 
