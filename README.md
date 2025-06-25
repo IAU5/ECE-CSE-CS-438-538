@@ -2,7 +2,7 @@
   <img src="Digital System Banner.png" alt="Digital System Banner" width="100%">
 </p>
 
-##  ECE 230 - DIGITAL SYSTEM
+##  ECE/CSE 438/538:  EdgeAI Hardware Systems
 
 Welcome to **ECE/CSE 438/538:  EdgeAI Hardware Systems** Course. This 3-credit advanced-level course takes a hardware-centric view of AI/machine learning systems from constrained embedded devices to high-level distributed systems. It covers topics like ML design for low-power devices, optimization techniques for real-time processing, and deployment strategies for AI/ML models on embedded devices, bridging the gap between AI theory and practical hardware implementation.
 
@@ -59,7 +59,7 @@ For navigation, you can click the buttons below to access course materials:
 
 ---
 
-## 🕒 Office Hours
+##  Office Hours
 
 | Name                    | Time                          | Room/Link                        |
 |-------------------------|-------------------------------|----------------------------------|
