@@ -22,18 +22,11 @@ For navigation, you can click the buttons below to access course materials:
 ---
 
 ## 🎯 Course Objectives
-- **Mastering Fundamental Concepts** in digital system design: Boolean algebra, state diagrams, logic circuits.
-- **Proficiency in HDLs** (e.g., Verilog) for high-level digital design.
-- **Hands-on Experience with PLDs** via lab work using FPGA boards.
-- **System-Level Design & Optimization**: Focused on power, speed, and area efficiency.
-- **Project-Based Learning** to foster real-world problem-solving and teamwork.
-- **Understand the AI/ML/DL Hardware Landscape**: Develop a hardware-centric understanding of AI, ML, and deep learning models, differentiating between embedded and cloud-based systems.
-- **Analyze and Implement AI Models**: Gain hands-on experience coding deep learning models (e.g., VGG19, MobileNetV2) using Python and PyTorch for computer vision tasks, with performance metrics such as accuracy, latency, and memory utilization.
-- **Optimize Models for Edge Devices**: Apply model-level optimization techniques such as matrix decomposition, pruning, quantization-aware training (QAT), knowledge distillation, and shifter-algorithms to enhance deployment on low-power hardware.
-- **Evaluate Hardware Performance**: Learn to assess hardware efficiency using roofline analysis, performance metrics, and hardware-aware dataflow paradigms for ML accelerators.
-- **Utilize Advanced ML Compilation Techniques**: Explore ML compilers, kernel transformations (e.g., Winograd, FFT), and domain-specific compilation strategies for efficient inference on specialized hardware.
-- **Build and Deploy TinyML Applications**: Design end-to-end ML pipelines, from data preprocessing to deployment, and deploy models using EdgeImpulse and TinyML microcontrollers for real-time edge inference.
-- **Address Societal and Ethical Implications**: Reflect on ethical, environmental, and societal challenges in AI deployment, including federated learning and distributed training paradigms.
+- Demonstrate understanding of how machine learning algorithms are implemented on different hardware systems.
+- Apply key optimization techniques, including pruning, quantization, and binarization, to improve the efficiency of machine learning algorithms on various hardware platforms.
+- Analyze and evaluate the performance and efficiency of hardware platforms with and without optimizations, understanding the trade-offs between efficiency and accuracy.
+- Deploy and infer optimized AI/ML models on microcontrollers, specifically within the context of TinyML.
+  
 ---
 
 ## 📊 Evaluation System
