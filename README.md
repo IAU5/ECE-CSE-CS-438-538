@@ -16,6 +16,9 @@ For navigation, you can click the buttons below to access course materials:
   <a href="./Assignment">
     <img src="assignment.png" alt="Assignment Button" width="200">
   </a>
+    <a href="./TinyML">
+    <img src="tinyml.png" alt="Tinyml Button" width="200">
+  </a>
 </p>
 
 
