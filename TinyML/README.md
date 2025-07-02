@@ -1,3 +1,4 @@
+## [Lab report template](./report_template.docx)
 ##  Tiny ML
 1. [Getting Started](./TinyML/tinyML_0_GettingStarted.pdf)
 2. [Keyword Spotting](./TinyML/tinyML_1_KeywordSpotting.pdf)
