@@ -74,6 +74,8 @@ For navigation, you can click the buttons below to access course materials:
 
 ##  [Course Syllabus](syllabus.pdf) 
 
+## Follow the guidelines when using AI-assisted tools: [Ai_tools_guidlines ECE/CSE](./)
+
 ###  Course Schedule: ECE/CSE 438/538 - Edge AI Hardware Systems
 
 | **Week** | **Topic**                                                                 | **Description**                                                                                                                                                                                                                                                                                                                                                                                                   | **Outcome**                                                                                                                                                      |
